@@ -251,7 +251,6 @@ a:hover{
     transition: 0.5s ease-in-out;
 }
 .card-wrapper::before a{
-    
     position:absolute;
     height: 100px;
     width: 100px;
